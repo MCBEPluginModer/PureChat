@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+D:\PureChat\PureChat\dllmain.cpp(8,1): warning C4005: _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING: изменение макроопределения
+D:\PureChat\PureChat\dllmain.cpp : message : см. предыдущее определение "_SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING"
+  Defining YAML_CPP_API for DLL import
+     Создается библиотека D:\PureChat\x64\Release\PureChat.lib и объект D:\PureChat\x64\Release\PureChat.exp
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  28 of 2094 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    273 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  PureChat.vcxproj -> D:\PureChat\x64\Release\PureChat.dll
